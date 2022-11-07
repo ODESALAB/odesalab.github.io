@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "ODESA-LAB"
 title_separator          : "-"
 name                     : &name "ODESA-LAB"
-description              : &description "Optimization Deep Learning and Stochastic Algorithms"
+description              : &description "Optimization, Deep Learning, and Stochastic Algorithms"
 url                      : https://odesalab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "odesalab.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "ODESA-LAB"
   avatar           : "profile.png"
-  bio              : "Optimization Deep Learning and Stochastic Algorithms"
+  bio              : "Optimization, Deep Learning, and Stochastic Algorithms"
   location         : "Istanbul, Turkey"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
