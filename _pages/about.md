@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ODESA-Lab (Optimization Deep Learning and Stochastic Algorithms) Research Group is led by Assistant Professor Berna Kiraz. We are part of Computer Engineering Deparment at FSMVU.
+ODESA-Lab (Optimization, Deep Learning, and Stochastic Algorithms) Research Group is led by Assistant Professor Berna Kiraz. We are part of Computer Engineering Deparment at FSMVU.
 
 Our group focuses on various issues:
 
