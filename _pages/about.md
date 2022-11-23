@@ -17,7 +17,7 @@ Our group focuses on various issues:
   <li>Neural Architecture Search</li>
   <li>Medical Image Segmentation with Deep Neural Networks</li>
   <li>Optimization of Deep Neural Networks</li>
-  <li> Metaheuristic Algorithms</li>
+  <li> Metaheuristic Algorithm</li>
 </ul>
 
 We are always looking for motivated students interested in related topics. Please feel free to email <bkiraz@fsm.edu.tr>, <maydin@fsm.edu.tr> 
