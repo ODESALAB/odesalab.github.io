@@ -21,9 +21,9 @@ author_profile: true
 
 ## MSc Students
 
-Zeliha Kaya ([Google Scholar](), [ORCID]())
+[Zeliha Kaya](https://zkaya.fsm.edu.tr/) ([Google Scholar](), [ORCID]())
 
-## Undergraduates Students
+## Undergraduate Students
 
 Sümeyya Zülal Dik (B.S. Student in Computer Engineering)
 
