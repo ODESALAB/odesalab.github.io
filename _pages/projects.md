@@ -9,7 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Funded Projects
+======
+* FSMVU Scientific Research Projects (BAP) (PI: Dr. Berna Kiraz) - Automated 3D Analysis of Brain Vasculature and Vessel-Associated Cells Using Machine Learning. 
+
+<!---Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
