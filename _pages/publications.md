@@ -26,6 +26,8 @@ author_profile: true
 
 ## Conference Papers
 
+[Neural Architecture Search Using Metaheuristics for Automated Cell Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-26504-4_12), Kuş, Z., Aydın, M., Kiraz, B., Can, B. (2023). Neural Architecture Search Using Metaheuristics for Automated Cell Segmentation. In: Di Gaspero, L., Festa, P., Nakib, A., Pavone, M. (eds) Metaheuristics. MIC 2022. Lecture Notes in Computer Science, vol 13838. Springer, Cham. https://doi.org/10.1007/978-3-031-26504-4_12
+
 [Removal of Gaussian Distributed Noise in Images with Deep Neural Network Models](https://ieeexplore.ieee.org/document/9864913), Zeki Kuş and Musa Aydin, "Removal of Gaussian Distributed Noise in Images with Deep Neural Network Models," 2022 30th Signal Processing and Communications Applications Conference (SIU), 2022, pp. 1-4, doi: 10.1109/SIU55565.2022.9864913 [(Code)](https://github.com/ODESALAB/Removal-of-Gaussian-Distributed-Noise-in-Images-with-Deep-Neural-Network-Models)
 
 [A Deep Learning Model for Automated Segmentation of Fluorescence Cell images](https://iopscience.iop.org/article/10.1088/1742-6596/2191/1/012003/pdf), Musa Aydın, Berna Kiraz, F. Eren, Y. Uysallı, B. Morova, S. C. Özcan, C. Açılan, A. Kiraz. (2022, February). "A Deep Learning Model for Automated Segmentation of Fluorescence Cell images", In Journal of Physics: Conference Series (Vol. 2191, No. 1, p. 012003). IOP Publishing.
