@@ -25,7 +25,7 @@ author_profile: true
 
 ## Undergraduate Students
 
-Sümeyya Zülal Dik (B.S. Student in Computer Engineering)
+Sümeyye Zülal Dik (B.S. Student in Computer Engineering)
 
 
 
