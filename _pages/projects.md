@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Funded Projects
+## Funded Projects
 ======
 * FSMVU Scientific Research Projects (BAP) (PI: Dr. Berna Kiraz) - Automated 3D Analysis of Brain Vasculature and Vessel-Associated Cells Using Machine Learning. 
 
