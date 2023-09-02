@@ -30,7 +30,7 @@ author_profile: true
 
 [Machine Learning Approaches for Cell Viability](https://ieeexplore.ieee.org/abstract/document/10223821) Zeliha Kaya, Zeki Kuş, Berna Kiraz and Gönül Uludağ, "Machine Learning Approaches for Cell Viability," 2023 31st Signal Processing and Communications Applications Conference (SIU), Istanbul, Turkiye, 2023, pp. 1-4, doi: 10.1109/SIU59756.2023.10223821.
 
-[BaDENAS: Bayesian Based Neural Architecture Search for Retinal Vessel Segmentation](https://ieeexplore.ieee.org/abstract/document/10223862), Zeki Kuş and Berna Kiraz, "BaDENAS: Bayesian Based Neural Architecture Search for Retinal Vessel Segmentation," 2023 31st Signal Processing and Communications Applications Conference (SIU), Istanbul, Turkiye, 2023, pp. 1-4, doi: 10.1109/SIU59756.2023.10223862. [(Code)]
+[BaDENAS: Bayesian Based Neural Architecture Search for Retinal Vessel Segmentation](https://ieeexplore.ieee.org/abstract/document/10223862), Zeki Kuş and Berna Kiraz, "BaDENAS: Bayesian Based Neural Architecture Search for Retinal Vessel Segmentation," 2023 31st Signal Processing and Communications Applications Conference (SIU), Istanbul, Turkiye, 2023, pp. 1-4, doi: 10.1109/SIU59756.2023.10223862. [(Code)](https://github.com/ODESALAB/BaDENAS)
 
 [Neural Architecture Search Using Metaheuristics for Automated Cell Segmentation](https://link.springer.com/chapter/10.1007/978-3-031-26504-4_12), Kuş, Z., Aydın, M., Kiraz, B., Can, B. (2023). Neural Architecture Search Using Metaheuristics for Automated Cell Segmentation. In: Di Gaspero, L., Festa, P., Nakib, A., Pavone, M. (eds) Metaheuristics. MIC 2022. Lecture Notes in Computer Science, vol 13838. Springer, Cham. https://doi.org/10.1007/978-3-031-26504-4_12
 
