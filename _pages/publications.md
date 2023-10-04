@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
+[Evolutionary Architecture Optimization for Retinal Vessel Segmentation](https://ieeexplore.ieee.org/document/10250938), Zeki Kuş and Berna Kiraz, "Evolutionary Architecture Optimization for Retinal Vessel Segmentation," in IEEE Journal of Biomedical and Health Informatics, 2023. doi: 10.1109/JBHI.2023.3314981.[(Code)](https://github.com/ODESALAB/Evolutionary-Architecture-Optimization-for-Retinal-Vessel-Segmentation)
+
 [Differential evolution-based neural architecture search for brain vessel segmentation](https://doi.org/10.1016/j.jestch.2023.101502), Zeki Kuş, Berna Kiraz, Tuğçe Koçak Göksu, Musa Aydın, E. Özkan, A. Vural, A. Kiraz, B. Can. "Differential evolution-based neural architecture search for brain vessel segmentation", In Engineering Science and Technology, an International Journal, Volume 46, 2023. doi: 10.1016/j.jestch.2023.101502 [(Code)](https://github.com/ODESALAB/Differential-Evolution-based-Neural-Architecture-Search-for-BrainVessel-Segmentation) 
 
 [Low-cost VIS/NIR range hand-held and portable photospectrometer and evaluation of machine learning algorithms for classification performance](https://doi.org/10.1016/j.jestch.2022.101302), S. Heydarov, Musa Aydin, C. Faydaci, S. Tuna, S. Ozturk, "Low-cost VIS/NIR range hand-held and portable photospectrometer and evaluation of machine learning algorithms for classification performance", Engineering Science and Technology, an International Journal, Volume 37, 2023, doi: 10.1016/j.jestch.2022.101302. 
