@@ -43,3 +43,4 @@ author_profile: true
 [Beyin Damar Bölütlemesinde Derin Sinir Ağlarının Deneysel Karşılaştırılması](https://ieeexplore.ieee.org/document/9559015), Tuğçe Koçak, Musa Aydın, Berna Kiraz, "Beyin Damar Bölütlemesinde Derin Sinir Ağlarının Deneysel Karşılaştırılması", 2021 6th International Conference on Computer Science and Engineering UBMK 2021, 2021.
 
 ## Thesis
+Kuş, Zeki. Hyper-parameter optimization of deep neural networks for cell-vessel segmentation. Doctoral thesis (YOK Thesis ID: 	824767), Fatih Sultan Mehmet Vakıf University, 2023.
