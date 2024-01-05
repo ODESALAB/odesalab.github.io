@@ -7,7 +7,7 @@ author_profile: true
 
 ## Principal Investigators
 
-[Asst. Prof. Berna Kiraz](https://bkiraz.fsm.edu.tr/) ([Google Scholar](https://scholar.google.com/citations?user=Je4hzioAAAAJ), [ORCID](https://orcid.org/0000-0002-8428-3217))
+[Asst. Prof. Berna Kiraz](https://bkiraz.fsm.edu.tr/) ([Google Scholar](https://scholar.google.com/citations?user=Je4hzioAAAAJ), [ORCID](https://orcid.org/0000-0002-8428-3217){target="_blank"})
 
 [Asst. Prof. Musa Aydın](https://maydin.fsm.edu.tr/) ([Google Scholar](https://scholar.google.com/citations?user=yfKMO-wAAAAJ), [ORCID](https://orcid.org/0000-0002-5825-2230))
 
