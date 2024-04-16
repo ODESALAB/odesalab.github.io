@@ -12,6 +12,10 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
+[Enhancing resolution and contrast in fibre bundle‐based fluorescence microscopy using generative adversarial network](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13296){:target="_blank"}, Ketabchi, A. M., Morova, B., Uysalli, Y., Musa Aydin, Eren, F., Bavili, N., ... & Kiraz, A "Enhancing resolution and contrast in fibre bundle‐based fluorescence microscopy using generative adversarial network." Journal of Microscopy (2024)[(Code)](https://zenodo.org/records/8363087){:target="_blank"}.
+
+[Retina Damar Segmentasyonunda Sinir Mimarisi Arama için Farklı Kodlama Yöntemlerinin Karşılaştırılması](https://dergipark.org.tr/en/pub/jeps/issue/82023/1335157){:target="_blank"}, Zeki Kuş, & Berna Kiraz. Retina Damar Segmentasyonunda Sinir Mimarisi Arama için Farklı Kodlama Yöntemlerinin Karşılaştırılması. International Journal of Advances in Engineering and Pure Sciences (2023), 35(4), 447-459.
+
 [Evolutionary Architecture Optimization for Retinal Vessel Segmentation](https://ieeexplore.ieee.org/document/10250938){:target="_blank"}, Zeki Kuş and Berna Kiraz, "Evolutionary Architecture Optimization for Retinal Vessel Segmentation," in IEEE Journal of Biomedical and Health Informatics, 2023. doi: 10.1109/JBHI.2023.3314981.[(Code)](https://github.com/ODESALAB/Evolutionary-Architecture-Optimization-for-Retinal-Vessel-Segmentation){:target="_blank"}
 
 [Differential evolution-based neural architecture search for brain vessel segmentation](https://doi.org/10.1016/j.jestch.2023.101502){:target="_blank"}, Zeki Kuş, Berna Kiraz, Tuğçe Koçak Göksu, Musa Aydın, E. Özkan, A. Vural, A. Kiraz, B. Can. "Differential evolution-based neural architecture search for brain vessel segmentation", In Engineering Science and Technology, an International Journal, Volume 46, 2023. doi: 10.1016/j.jestch.2023.101502 [(Code)](https://github.com/ODESALAB/Differential-Evolution-based-Neural-Architecture-Search-for-BrainVessel-Segmentation){:target="_blank"} 
