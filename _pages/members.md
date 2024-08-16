@@ -27,5 +27,7 @@ author_profile: true
 ## Undergraduate Students
 
 Atıf Eren Yarıkan (B.S. Student in Computer Engineering)
+
 Büşra Sinem Karadeniz (B.S. Student in Computer Engineering)
+
 Sümeyye Zülal Dik (B.S. Student in Computer Engineering)
