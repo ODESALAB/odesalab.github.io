@@ -11,8 +11,7 @@ author_profile: true
 
 [Asst. Prof. Musa Aydın](https://maydin.fsm.edu.tr/){:target="_blank"} ([Google Scholar](https://scholar.google.com/citations?user=yfKMO-wAAAAJ){:target="_blank"}, [ORCID](https://orcid.org/0000-0002-5825-2230){:target="_blank"})
 
-## Researchers
-[Dr. Zeki Kuş](https://zkus.fsm.edu.tr/){:target="_blank"} ([Google Scholar](https://scholar.google.com/citations?user=h2B-3LwAAAAJ){:target="_blank"}, [ORCID](https://orcid.org/0000-0001-8762-7233){:target="_blank"})
+[Asst. Prof. Zeki Kuş](https://zkus.fsm.edu.tr/){:target="_blank"} ([Google Scholar](https://scholar.google.com/citations?user=h2B-3LwAAAAJ){:target="_blank"}, [ORCID](https://orcid.org/0000-0001-8762-7233){:target="_blank"})
 
 ## PhD Students
 [Reyhan Hoşavcı](https://rgurleyen.fsm.edu.tr/){:target="_blank"} ([Google Scholar](https://scholar.google.com/citations?user=JrgIgsgAAAAJ&hl=en){:target="_blank"}, [ORCID](https://orcid.org/0000-0003-3384-6670){:target="_blank"}) 
@@ -27,4 +26,6 @@ author_profile: true
 
 ## Undergraduate Students
 
+Atıf Eren Yarıkan (B.S. Student in Computer Engineering)
+Büşra Sinem Karadeniz (B.S. Student in Computer Engineering)
 Sümeyye Zülal Dik (B.S. Student in Computer Engineering)

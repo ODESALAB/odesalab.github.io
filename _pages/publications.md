@@ -12,6 +12,8 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
+[Automated HER2 Scoring in Breast Cancer Images Using Deep Learning and Pyramid Sampling](https://doi.org/10.34133/bmef.0048){:target="_blank"}, Selcuk, S. Y., Yang, X., Bai, B., Zhang, Y., Li, Y., Musa Aydin, Unal, A. F., Gomatam, A., Guo, Z., Angus, D. M., Kolodney, G., Atlan, K., Haran, T. K., Pillar, N., & Ozcan, A. (2024). Automated HER2 Scoring in Breast Cancer Images Using Deep Learning and Pyramid Sampling. In BME Frontiers (Vol. 5). American Association for the Advancement of Science (AAAS).
+
 [Enhancing resolution and contrast in fibre bundle‐based fluorescence microscopy using generative adversarial network](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13296){:target="_blank"}, Ketabchi, A. M., Morova, B., Uysalli, Y., Musa Aydin, Eren, F., Bavili, N., ... & Kiraz, A "Enhancing resolution and contrast in fibre bundle‐based fluorescence microscopy using generative adversarial network." Journal of Microscopy (2024)[(Code)](https://zenodo.org/records/8363087){:target="_blank"}.
 
 [Retina Damar Segmentasyonunda Sinir Mimarisi Arama için Farklı Kodlama Yöntemlerinin Karşılaştırılması](https://dergipark.org.tr/en/pub/jeps/issue/82023/1335157){:target="_blank"}, Zeki Kuş, & Berna Kiraz. Retina Damar Segmentasyonunda Sinir Mimarisi Arama için Farklı Kodlama Yöntemlerinin Karşılaştırılması. International Journal of Advances in Engineering and Pure Sciences (2023), 35(4), 447-459.
@@ -33,6 +35,12 @@ author_profile: true
 [A New Model for the Multi-Objective Multiple Allocation Hub Network Design and Routing Problem](https://ieeexplore.ieee.org/document/8756240){:target="_blank"} İ. Demır, F. Corut Ergin, Berna Kıraz, "A New Model for the Multi-Objective Multiple Allocation Hub Network Design and Routing Problem", IEEE Access, vol. 7, pp. 90678-90689, 2019, doi: 10.1109/ACCESS.2019.2927418.
 
 ## Conference Papers
+
+[The Effect of Class-Weighted Penalization in Deep Neural Networks for Multi-Class Cell Segmentation](https://ieeexplore.ieee.org/document/10601040){:target="_blank"} Musa Aydin, Zeki Kuş, Berna Kiraz, Reyhan Hoşavcı, Alper Kiraz (2024, May). The Effect of Class-Weighted Penalization in Deep Neural Networks for Multi-Class Cell Segmentation. In 2024 32nd Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE.
+
+[A Hybrid CNN-Tree Based Model for Enhanced Image Classification Performance](https://ieeexplore.ieee.org/document/10600973){:target="_blank"} Musa Aydin, Zeki Kuş, Zeliha Kaya Akçelik (2024, May). A Hybrid CNN-Tree Based Model for Enhanced Image Classification Performance. In 2024 32nd Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE.
+
+[PBC-NAS: Neural Architecture Search for Peripheral Blood Cells Classification](https://ieeexplore.ieee.org/document/10601013){:target="_blank"} Zeki Kuş, Berna Kiraz, Musa Aydin, Alper Kiraz. (2024, May). PBC-NAS: Neural Architecture Search for Peripheral Blood Cells Classification. In 2024 32nd Signal Processing and Communications Applications Conference (SIU) (pp. 1-4). IEEE.
 
 [Machine Learning Approaches for Cell Viability](https://ieeexplore.ieee.org/abstract/document/10223821){:target="_blank"} Zeliha Kaya, Zeki Kuş, Berna Kiraz and Gönül Uludağ, "Machine Learning Approaches for Cell Viability," 2023 31st Signal Processing and Communications Applications Conference (SIU), Istanbul, Turkiye, 2023, pp. 1-4, doi: 10.1109/SIU59756.2023.10223821.
 
