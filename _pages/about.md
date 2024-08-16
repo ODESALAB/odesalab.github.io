@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-ODESA-Lab (Optimization, Deep Learning, and Stochastic Algorithms) Research Group is led by Asst. Prof. Berna Kiraz and Asst. Prof. Musa Aydın. We are part of [Computer Engineering Deparment at FSMVU](https://bm.fsm.edu.tr/).
+ODESA-Lab (Optimization, Deep Learning, and Stochastic Algorithms) Research Group is led by Asst. Prof. Berna Kiraz, Asst. Prof. Musa Aydın, Asst. Prof. Zeki Kuş. We are part of [Computer Engineering Deparment at FSMVU](https://bm.fsm.edu.tr/).
 
 Our group focuses on various issues:
 
@@ -20,4 +20,4 @@ Our group focuses on various issues:
   <li>Metaheuristic Algorithm</li>
 </ul>
 
-We are always looking for motivated students interested in related topics. Please feel free to email <bkiraz@fsm.edu.tr>, <maydin@fsm.edu.tr> 
+We are always looking for motivated students interested in related topics. Please feel free to email <bkiraz@fsm.edu.tr>, <maydin@fsm.edu.tr>, <zkus@fsm.edu.tr>
