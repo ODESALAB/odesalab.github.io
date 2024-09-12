@@ -12,6 +12,9 @@ author_profile: true
 {% include base_path %}
 
 ## Journal Papers
+
+[Virtual birefringence imaging and histological staining of amyloid deposits in label-free tissue using autofluorescence microscopy and deep learning](https://doi.org/10.1038/s41467-024-52263-z){:target="_blank"}, Yang, X., Bai, B., Zhang, Y., Musa Aydin, et al. (2024), In Nature Communications 15, 7978. 
+
 [Automated HER2 Scoring in Breast Cancer Images Using Deep Learning and Pyramid Sampling](https://doi.org/10.34133/bmef.0048){:target="_blank"}, Selcuk, S. Y., Yang, X., Bai, B., Zhang, Y., Li, Y., Musa Aydin, Unal, A. F., Gomatam, A., Guo, Z., Angus, D. M., Kolodney, G., Atlan, K., Haran, T. K., Pillar, N., & Ozcan, A. (2024). Automated HER2 Scoring in Breast Cancer Images Using Deep Learning and Pyramid Sampling. In BME Frontiers (Vol. 5). American Association for the Advancement of Science (AAAS).
 
 [Enhancing resolution and contrast in fibre bundle‐based fluorescence microscopy using generative adversarial network](https://onlinelibrary.wiley.com/doi/10.1111/jmi.13296){:target="_blank"}, Ketabchi, A. M., Morova, B., Uysalli, Y., Musa Aydin, Eren, F., Bavili, N., ... & Kiraz, A "Enhancing resolution and contrast in fibre bundle‐based fluorescence microscopy using generative adversarial network." Journal of Microscopy (2024)[(Code)](https://zenodo.org/records/8363087){:target="_blank"}.
